@@ -1584,7 +1584,7 @@
     "romaji": "Mochi wa mochiya",
     "english": "Mochi should be made by the mochi shop",
     "meaning": "Leave it to the experts",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1594,7 +1594,7 @@
     "english": "It’s darkest under the lighthouse",
     "meaning": "The obvious is overlooked",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 178,
@@ -1602,7 +1602,7 @@
     "romaji": "Ki wo mite mori wo mizu",
     "english": "See the trees but not the forest",
     "meaning": "Miss the bigger picture",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1612,7 +1612,7 @@
     "english": "Travel needs companions; life needs kindness",
     "meaning": "Relationships and compassion matter",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 180,
